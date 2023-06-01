@@ -104,10 +104,10 @@ Execute the program
 
 # OUPUT
 ## Server Output: 
-![OUTPUT](http://naviz.student.saveetha.in/static/images/ex03so.png?raw=true)
+![OUTPUT](http://naviz.student.saveetha.in:8000/static/images/ex03so.png?raw=true)
 
 ## Client Output:
-![OUTPUT](http://naviz.student.saveetha.in:/static/images/ex03co.png?raw=true)
+![OUTPUT](http://naviz.student.saveetha.in:8000/static/images/ex03co.png?raw=true)
 
 # Result:
 Hence the html webpage page is created to display your timetable.
