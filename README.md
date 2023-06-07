@@ -103,11 +103,15 @@ Execute the program
 ```
 
 # OUPUT
-## Server Output: 
-![OUTPUT](http://naviz.student.saveetha.in:8000/static/images/ex03so.png?raw=true)
+## Server Output:
+![ex03so](https://github.com/mrnaviz/timetable/assets/123350791/8e734ede-b54a-44e3-8991-eefffaab1cfd)
+
+
 
 ## Client Output:
-![OUTPUT](http://naviz.student.saveetha.in:8000/static/images/ex03co.png?raw=true)
+![ex03co](https://github.com/mrnaviz/timetable/assets/123350791/d302c174-a5de-435d-adea-80027f6e8f68)
+
+
 
 # Result:
 Hence the html webpage page is created to display your timetable.
